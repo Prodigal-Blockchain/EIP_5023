@@ -47,13 +47,10 @@ cd EIP_5023
 
 ```
 npm install
-
 ```
 
 ```
-
 npx hardhat compile
-
 ```
 
 ### Deployment

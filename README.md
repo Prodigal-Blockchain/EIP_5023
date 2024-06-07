@@ -45,6 +45,7 @@ git clone https://github.com/Prodigal-Blockchain/EIP_5023.git
 cd EIP_5023
 ```
 
+```
 npm install
 
 ```
@@ -53,7 +54,7 @@ npm install
 
 npx hardhat compile
 
-````
+```
 
 ### Deployment
 
@@ -67,7 +68,7 @@ npx hardhat compile
 
 ```sh
 npx hardhat run scripts/deploy.js --netowrk NETWORK
-````
+```
 
 Replace NETWORK valide network of your choice (ex: sepolia or base-sepolia)
 
